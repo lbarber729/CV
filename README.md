@@ -34,23 +34,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford Brookes University (2009 to 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Certificate of Higher Education - Biology
 
 #### Any other qualifications
 
+- PADI Open Water Scuba Instructor (with 6 specialities)
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**Matford Jaguar Land Rover** (July '18 to April '19)    
 *Your job title*  
-**Company Name** (start_date to end_date)   
+**Ministry for Primary Industries** (Sept '17 to Feb '18)   
 *Your job title*  
 
 ## Hobbies and Interests
-**Triathlons** - I have taken part in a couple of Half Ironman events and like to keep active in my spare time.
-**Cycling** - I have cycled from John O'Groats to Lands End whilst raising money for Charity and last year I completed the London to Paris cycle.
-**Travel** - I love to travel and see the world, I have recently lived in New Zealand for 18 months and my next  trip is to Canada.
-**Skiing** - I worked for a season in Val D'isere and try to ski once or twice every winter
+- Triathlons - I have taken part in a couple of Half Ironman events and like to keep active in my spare time.
+- Cycling - I have cycled from John O'Groats to Lands End whilst raising money for Charity and last year I completed the London to Paris cycle.
+- Travel - I love to travel and see the world, I have recently lived in New Zealand for 18 months and my next  trip is to Canada.
+- Skiing - I worked for a season in Val D'isere and try to ski once or twice every winter
