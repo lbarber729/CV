@@ -50,3 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 
 ## Hobbies and Interests
+**Triathlons** - I have taken part in a couple of Half Ironman events and like to keep active in my spare time.
+**Cycling** - I have cycled from John O'Groats to Lands End whilst raising money for Charity and last year I completed the London to Paris cycle.
+**Travel** - I love to travel and see the world, I have recently lived in New Zealand for 18 months and my next  trip is to Canada.
+**Skiing** - I worked for a season in Val D'isere and try to ski once or twice every winter
