@@ -32,6 +32,7 @@ My experience at Makers has taught be the fundamentals of software development t
 **Matford Jaguar Land Rover** (July '18 to April '19)    
 Sales/Servcie Admin 
 - A temporary position supporting the service and sales departments of a car dealership in Exeter.
+
 **Ministry for Primary Industries** (Sept '17 to Feb '18)   
 Support Officer  
 - Providing admin support to a large team of 60 in Wellington, New Zealand. 
