@@ -2,21 +2,26 @@
 
 Having recently returned back to the UK after living and working abroad I was after a new career challenge. I came across Makers, a 16 week coding bootcamp in London, and thus started my journey of becoming a developer. 
 
-My experience at Makers has taught be the fundamentals of software development through pair programming, individual projects and working in agile teams to create fun projects like this. I am now looking for a junior developer role that in a supportive environment that will help to further my development.
+My experience at Makers has taught be the fundamentals of software development through pair programming, individual projects and working in agile teams to create fun projects like [this](https://acebook-d-railed.herokuapp.com/). I am now looking for a junior developer role that, in a supportive environment, that will help to further my development.
 
 ## Education
 
-#### Makers Academy (April '19 to July '19)
+#### Makers (April '19 to July '19)
 
-- Curious and passionate about code
 - Fast, independent learner and problem solver
 - Great collaborator
-- OOP, TDD,
-- Agile/XP
+- Test Driven Dvelopment
+- Agile Methodologies
+- XP Values 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-##### Projects 
+#### Projects 
+
+| Project | Description | Technologies | Testing |
+|:-------:|:-----------:|:------------:|:-------:|
+|[Acebook](https://acebook-d-railed.herokuapp.com/)| A 2 week group project creating a Facebook clone | Rails, Bootstrap, Travis CI, Heroku, Active Record | RSpec, Capybara|
+
 
 
 #### Oxford Brookes University (2009 to 2011)
