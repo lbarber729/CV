@@ -1,4 +1,5 @@
 ## Lucy Barber
+[Eductaion](Education) | [Experience](Experience) | [Hobbies](Hobbies-and-Interests) | [LinkedIn](https://www.linkedin.com/in/lucy-barber-68297181/)
 
 Having recently returned back to the UK after living and working abroad I was after a new career challenge. I came across Makers, a 16 week coding bootcamp in London, and thus started my journey of becoming a developer. 
 
