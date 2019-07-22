@@ -21,7 +21,9 @@ My experience at Makers has taught be the fundamentals of software development t
 
 | Project | Description | Technologies | Testing |
 |:-------:|:-----------:|:------------:|:-------:|
+|[The Power Of Truth](https://github.com/lbarber729/PowerOfTruth)| Makers Final Project, a 2 week project creating a mobile news app| React Native, NodeJS, Javascript | Jest|
 |[Acebook](https://acebook-d-railed.herokuapp.com/)| A 2 week group project creating a Facebook clone | Rails, Bootstrap, Travis CI, Heroku, Active Record | RSpec, Capybara|
+
 
 
 
